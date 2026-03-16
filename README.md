@@ -105,17 +105,18 @@ plt.show()
 ```
 # Output:
 
-![image alt](<Screenshot 2026-03-16 194421.png>)
-![image alt](<Screenshot 2026-03-16 194439.png>)
-![image alt](<Screenshot 2026-03-16 194451.png>)
-![image alt](<Screenshot 2026-03-16 194509.png>)
-![image alt](<Screenshot 2026-03-16 194519.png>)
-![image](<Screenshot 2026-03-16 194530.png>)
-![image alt](<Screenshot 2026-03-16 194540.png>)
-![image alt](<Screenshot 2026-03-16 194550.png>)
-![image alt](<Screenshot 2026-03-16 194601.png>)
-![image alt](<Screenshot 2026-03-16 194612.png>)
-![image alt](<Screenshot 2026-03-16 194623.png>)
+<img width="803" height="560" alt="Screenshot 2026-03-16 215358" src="https://github.com/user-attachments/assets/37816d6f-6780-4656-a871-2e59a991f4f6" />
+<img width="767" height="579" alt="Screenshot 2026-03-16 215412" src="https://github.com/user-attachments/assets/59e3f2ef-f819-42eb-85b2-94816783eb35" />
+<img width="763" height="560" alt="Screenshot 2026-03-16 215418" src="https://github.com/user-attachments/assets/bdc6146a-d158-4abe-adfe-d9676f8f42ee" />
+<img width="826" height="599" alt="Screenshot 2026-03-16 215427" src="https://github.com/user-attachments/assets/6bddbf32-7f90-4b6e-912a-cd0e5f57a9d9" />
+<img width="774" height="595" alt="Screenshot 2026-03-16 215434" src="https://github.com/user-attachments/assets/91f51594-6c31-4f98-8993-1ba949c92026" />
+<img width="775" height="565" alt="Screenshot 2026-03-16 215441" src="https://github.com/user-attachments/assets/d5da1de6-0de8-436a-9adf-3544b52573c8" />
+<img width="849" height="623" alt="Screenshot 2026-03-16 215446" src="https://github.com/user-attachments/assets/06b63a78-69ee-4f30-a690-3eb632afafc0" />
+<img width="787" height="604" alt="Screenshot 2026-03-16 215451" src="https://github.com/user-attachments/assets/db092a63-5daa-4586-a4bd-2bdc419b3cae" />
+<img width="703" height="534" alt="Screenshot 2026-03-16 215457" src="https://github.com/user-attachments/assets/b4f08cdf-1ebd-4188-b664-9cd78c506e0c" />
+<img width="713" height="528" alt="Screenshot 2026-03-16 215502" src="https://github.com/user-attachments/assets/c3f133dd-5d87-4e3d-a552-c07cb3260523" />
+<img width="558" height="463" alt="Screenshot 2026-03-16 215508" src="https://github.com/user-attachments/assets/caf2f1da-f5bb-4796-8671-f0e81a6e6161" />
+
 
 # Result:
  Include your result here
