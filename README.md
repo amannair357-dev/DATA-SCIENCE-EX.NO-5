@@ -105,17 +105,17 @@ plt.show()
 ```
 # Output:
 
-![alt text](<Screenshot 2026-03-16 194421.png>)
-![alt text](<Screenshot 2026-03-16 194439.png>)
-![alt text](<Screenshot 2026-03-16 194451.png>)
-![alt text](<Screenshot 2026-03-16 194509.png>)
-![alt text](<Screenshot 2026-03-16 194519.png>)
-![alt text](<Screenshot 2026-03-16 194530.png>)
-![alt text](<Screenshot 2026-03-16 194540.png>)
-![alt text](<Screenshot 2026-03-16 194550.png>)
-![alt text](<Screenshot 2026-03-16 194601.png>)
-![alt text](<Screenshot 2026-03-16 194612.png>)
-![alt text](<Screenshot 2026-03-16 194623.png>)
+![image alt](<Screenshot 2026-03-16 194421.png>)
+![image alt](<Screenshot 2026-03-16 194439.png>)
+![image alt](<Screenshot 2026-03-16 194451.png>)
+![image alt](<Screenshot 2026-03-16 194509.png>)
+![image alt](<Screenshot 2026-03-16 194519.png>)
+![image alt](<Screenshot 2026-03-16 194530.png>)
+![image alt](<Screenshot 2026-03-16 194540.png>)
+![image alt](<Screenshot 2026-03-16 194550.png>)
+![image alt](<Screenshot 2026-03-16 194601.png>)
+![image alt](<Screenshot 2026-03-16 194612.png>)
+![image alt](<Screenshot 2026-03-16 194623.png>)
 
 # Result:
  Include your result here
